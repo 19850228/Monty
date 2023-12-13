@@ -1,4 +1,5 @@
-#include "monty.h"
+#include "Monty.h"
+#define  _POSIX_C_SOURCE 200809L
 /**
  * f_mul - multiplies the top two elements of the stack.
  * @head: stack head
