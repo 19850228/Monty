@@ -1,5 +1,4 @@
 #include "Monty.h"
-#define  _POSIX_C_SOURCE 200809L
 /**
  * f_add - adds the top two elements of the stack.
  * @head: stack head

@@ -1,5 +1,4 @@
 #include "Monty.h"
-#define  _POSIX_C_SOURCE 200809L
 /**
  * f_mod - computes the rest of the division of the second
  * top element of the stack by the top element of the stack
