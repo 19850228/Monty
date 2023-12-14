@@ -1,4 +1,4 @@
-#include "Monty.h"
+#include "monty.h"
 /**
   *f_nop- nothing
   *@head: stack head
